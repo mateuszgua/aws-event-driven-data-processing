@@ -1,7 +1,7 @@
 import requests
 import json
 
-from save_json_file import save_json_file
+from app.save_json_file import save_json_file
 
 
 def get_api_get_random_users(number_of_users):
