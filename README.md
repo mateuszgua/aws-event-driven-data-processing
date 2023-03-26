@@ -1,16 +1,14 @@
 # Aws event driven data processing
 > This application showed connection in aws services and return event when user make any changes in files.
+> Live demo [_here_](http://mateuszgua.pythonanywhere.com/).
 
 ## Table of Contents
 * [General Info](#general-information)
 * [Technologies Used](#technologies-used)
 * [Features](#features)
 * [Screenshots](#screenshots)
-* [Setup](#setup)
-* [Usage](#usage)
 * [Project Status](#project-status)
-* [Room for Improvement](#room-for-improvement)
-
+* [Contact](#contact)
 
 ## General Information
 - This project was created because I wanted run project in aws services.
@@ -38,8 +36,6 @@ List the ready features here:
 ## Screenshots
 ![Example screenshot](./static/func-diagram.png)
 
-## Setup
-
 ## Project Status
 Project is: in_progress
 
@@ -52,3 +48,6 @@ To do:
 - Creation sqs connection,
 - Creation Lambda,
 - Connection with S3 bucket from lambda
+
+## Contact
+Created by [@DevGua]() - feel free to contact me!
