@@ -34,20 +34,14 @@ List the ready features here:
 - Create parquet file reader in app
 
 ## Screenshots
+Schematic diagram
 ![Example screenshot](./static/func-diagram.png)
+Page with project workflow
+![Example screenshot](./static/pythonanywhere.png)
 
 ## Project Status
 Project is: in_progress
 
-
-## Room for Improvement
-
-To do:
-- Creation eventbridge rules,
-- Creation sns notification,
-- Creation sqs connection,
-- Creation Lambda,
-- Connection with S3 bucket from lambda
 
 ## Contact
 Created by [@DevGua]() - feel free to contact me!
