@@ -28,6 +28,12 @@ List the ready features here:
 - Create a policy and add it to user,
 - Create connection with external API and get dummy data for user in json file,
 - Upload json file into AWS S3 bucket
+- Create eventbridge rules for monitor when object is creating,
+- Create sns notification for email,
+- Create lambda function,
+- Create sqs connection with sns and lambda,
+- Create json reader, create dataframe from json and write file in parquet into S3 bucket
+- Create parquet file reader in app
 
 ## Screenshots
 ![Example screenshot](./static/func-diagram.png)
